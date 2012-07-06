@@ -1,0 +1,54 @@
+{
+    "direction": "ltr",
+    "id": "user/32523523525324657657658/state/com.google/broadcast",
+    "title": "Liste de partage dans Google Reader",
+    "self": [
+        {
+            "href": "http://www.google.fr/reader/export/json/user/32523523525324657657658/state/com.google/broadcast?filename=shared-items.json&n=99999&comments=true&full=true&co=false&hl=fr"
+        }
+    ],
+    "author": "moi",
+    "updated": 1320001951,
+    "items": [
+        {
+            "isReadStateLocked": true,
+            "commentInfo": {
+                "user": {
+                    "permalinkUrl": "https://plus.google.com/",
+                    "commentState": "VIEWER_CANNOT_COMMENT"
+                }
+            },
+            "crawlTimeMsec": "1318420478725",
+            "timestampUsec": "1318420478725237",
+            "id": "tag:google.com,2005:reader/item/2a6ce6002fb92a54",
+            "categories": [
+                "user",
+                "user/32523523525324657657658/state/com.google/read",
+                "user-friends",
+                "Graphics",
+                "Inspiration"
+            ],
+            "title": "XXXXXX",
+            "published": 1318279906,
+            "updated": 1318279906,
+            "alternate": [
+                {
+                    "href": "http://feedproxy.google.com/~r/webdesignfan/~3/3FXawl_tj48/",
+                    "type": "text/html"
+                }
+            ],
+            "content": {
+                "direction": "ltr",
+                "content": "<p>test de post</p>"
+            },
+            "author": "Moi",
+            "comments": [],
+            "annotations": [],
+            "origin": {
+                "streamId": "feed/http://feeds.feedburner.com/webdesignfan",
+                "title": "Web Design Blog | Web Design Fan | Resources for Web Designers and Graphic Designers",
+                "htmlUrl": "http://webdesignfan.com"
+            }
+        }
+    ]
+}
